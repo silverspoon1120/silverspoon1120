@@ -1,42 +1,76 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, there. Pleased to meet you. :)
-<table><tr><td valign="center" width="55%" style="border:1px solid gray;">
+<h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior Full Stack&Blockchain Developer</h1>
+<br>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
+  <p>
+
+  Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. 
+  
+  Very familiar with all tech stacks related to web and mobile development. React and MERN stack is my best tech stack and also familiar with Vue, Angular, Laravel, Node, Pure PHP and React Native, Flutter, Swift, Java for mobiles.
+  
+  Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
+Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+</p>
 <br/>
-<strong>A Senior Web & Mobile Developer</strong>.👋 
-<hr/>
-I am an experienced software developer with over 9+ years of expertise in creating web & mobile applications across a wide range of industries - from the development of consumer productivity software to building mission-critical financial trading platforms.
-My proficiency in JavaScript, coupled with my vast knowledge of browser APIs and familiarity with the most prominent web frameworks, have enabled me to rise above the rest in my field. 
-	
-I am well-versed in front-end frameworks including _**Svelte, React, Ember, Angular, and Vue**_, which are the primary tools utilized to transform my projects into dynamic, interactive and visually appealing applications.
-I also have worked extensively with various frameworks such as _**Express.js, NestJS, Laravel, WordPress, ASP.NET Core, and Django**_.
-
-With regards to mobile development, I have established myself as an accomplished developer with proven expertise in developing Android, iOS, React Native, and Flutter applications that provide seamless user experiences.
-
-Furthermore, I possess a strong technical understanding of machine learning algorithms that includes neural networks and deep learning, as well as web automation utilizing Python.
-
-Overall, I am confident in my skills and abilities as a seasoned and successful developer, always pushing the limits of what is possible while staying on the cutting edge of technology advancements.
-<hr/>
-Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
-<br/><br/>
-</td>
-
-<td valign="center" width="45%">
-<div align="center" style="justify-content:"center">
-	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=spiderman128&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!-- 	<img height="200" src="https://assets.azion.com/static/videos/learn-more-video.gif"/> -->
-	<img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=glistenstar&theme=gruvbox&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" style="max-width: 100%;">
-	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
-</div> 
-
-</td></tr></table>  
-
 <br/>
 
-## ⚡ Techonologies 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spiderman128&layout=compact&theme=dark" /> <img src="https://img.shields.io/badge/-HTML-ff671f?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1facff?style=flat&logo=css3&logoColor=white"> ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery) <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"><br/><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> ![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron) ![Svelte](https://img.shields.io/badge/-Svelte-gray?style=flat&logo=svelte) ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat&logo=vue.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)<br/><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=NestJS) ![ExpressJS](https://img.shields.io/badge/-ExpressJS-1facff?style=flat&logo=Express) <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-green?style=flat&logo=dotnet)<br/><img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> ![Rails](http://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=ffffff) ![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot) <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GraphQL-1facff?style=flat&logo=graphql&logoColor=FFFFFF"><br/>![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) ![React Native](https://img.shields.io/badge/-React%20Native-0175C2?style=flat&logo=react) ![Ionic](https://img.shields.io/badge/-Ionic-ffffff?style=flat&logo=ionic) <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-ObjectiveC%2FSwift-black?style=flat&logo=ios"><br/>![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-4DE63D?style=flat&logo=mongodb&logoColor=FFFFFF) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat&logo=oracle) ![MS SQL](http://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
+  <div>
+  <h2 font-weight="bold">Programming Language</h2>
+   <div align="left">
+    <code><img alt="Rust" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
+    <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
+    <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+     <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
+    <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
+    <a href="https://www.qt.io/" target="_blank">
+      <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
+    </a>
+    <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
+    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
+    <code><img alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png"/></code>
+    <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
+  </div>
 
-<br/>
+<h2 font-weight="bold">Back End</h2>
 
+  <div align="left">
+  <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+  <code><img alt="nestjs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/></code>
+  <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+  <code><img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
 
-## 👨‍ Contact Me
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="mailto:talent111dev@gmail.com">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+  </div>
+<h2 font-weight="bold">Front End</h2>
+<div>
+  <div align="left">
+  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
+  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"></code>
+  <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+  </div>
+</div>
+<h2 font-weight="bold">Other</h2>
+<div>
+  <div align="left">
+  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+  <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
+  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
+  </div>
+</div>
